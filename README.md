@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=soonmac&fontColor=ffff&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=hello&fontColor=ffff&fontSize=90)
 <div align="center">
 
 ![title_img](https://user-images.githubusercontent.com/55690712/150562553-bce89d17-e7fe-460b-85b1-c12b85363640.png)
