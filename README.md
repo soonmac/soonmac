@@ -1,14 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=hello&fontColor=ffff&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=Welcome&fontColor=ffff&fontSize=90)
 <div align="center">
 
 ![title_img](https://user-images.githubusercontent.com/55690712/150562553-bce89d17-e7fe-460b-85b1-c12b85363640.png)
 
 ### 🐊 My Stack 🐊
-<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/> 
  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
+ <img src="https://img.shields.io/badge/angular-red?style=for-the-badge&logo=Angular&logoColor=white">
+  <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black">
 
 ### 🎨 Tools 🎨
-<img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> <img alt="Adobe Photoshop" src ="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe Photoshop&logoColor=black"/> <img alt="Adobe Illustrator" src ="https://img.shields.io/badge/Adobe Illustrator-FF9A00.svg?&style=for-the-badge&logo=Adobe Illustrator&logoColor=black"/> <img alt="Blender" src ="https://img.shields.io/badge/Blender-F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=black"/>
+<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
+<img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>  <img alt="Blender" src ="https://img.shields.io/badge/Blender-F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=black"/>
 
 
 ### ✨ Account ✨
